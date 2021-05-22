@@ -1,2 +1,3 @@
 # hello-world
-this is for learning GitHub
+This repo is for learning GitHub.
+It is boring.
